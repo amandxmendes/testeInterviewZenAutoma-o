@@ -25,8 +25,5 @@ public class AgiTest  {
 
         Assert.assertEquals("Nenhum resultado", telaPesquisa);
 
-        if (telaPesquisa != null){
-            System.out.println("Teste efetuado com sucesso!");
-        }
     }
 }
